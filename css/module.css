@@ -1,0 +1,5 @@
+/* Dark theme stuff */
+#a.dark, #b.dark, #c.dark, #d.dark, #e.dark, #f.dark, #g.dark, #h.dark, #i.dark {
+  background-color: slategray;
+  color: white;
+}
