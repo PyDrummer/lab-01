@@ -2,4 +2,19 @@
 #a.dark, #b.dark, #c.dark, #d.dark, #e.dark, #f.dark, #g.dark, #h.dark, #i.dark {
   background-color: slategray;
   color: white;
+  border: .5px solid #15BAC0;
+}
+
+.button {
+  color:white;
+  text-decoration: none;
+  background-color: #042A2B;
+  border: 1px solid black;
+  transition-duration: 0.4;
+}
+
+.button:hover {
+  background-color: white;
+  color: black;
+  outline: 0;
 }
